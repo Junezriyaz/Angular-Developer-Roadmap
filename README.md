@@ -3,4 +3,4 @@ Angular Developer Roadmap will help to guide a well-structured learning path to 
 
 **Download the [Angular Developer Roadmap](https://codingtute.com/angular-developer-roadmap) PDF file.**
 
-![alt text](https://codingtute.com/wp-content/uploads/2021/10/Angular-Developer-Roadmap.png)
+![alt text](https://codingtute.com/wp-content/uploads/2021/10/Angular-Roadmap.png)
